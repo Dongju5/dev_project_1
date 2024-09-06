@@ -7,3 +7,6 @@
 우재원 : 연도별 트랜드 분석
 조재상 연도별 트랜드 분석
 최동주 : 카테고리별 성장성 분석
+
+데이터셋
+https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
